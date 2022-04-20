@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikomatt69
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Html,CSS,JavaScript,Solidity,Hardhat.
+- 🌱 I’m currently learning Html,CSS,JavaScript,Solidity.
 - 💞️ I’m looking to collaborate on Blockchain Dapps
 - 📫 How to reach me www.twitter.com/nikomatt69
 - ENS nikoemme.eth / nikomatt.eth
