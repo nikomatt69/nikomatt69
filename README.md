@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @nikomatt69
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Html,CSS,JavaScript,Solidity.
-- 💞️ I’m looking to collaborate on Blockchain Dapps
-<!---
-nikomatt69/nikomatt69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://gitroll.io/profile/uZTXIauC0JVRihH7kG22Z67jWYud2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uZTXIauC0JVRihH7kG22Z67jWYud2?theme=dark" alt="GitRoll Profile Badge"/></a>
